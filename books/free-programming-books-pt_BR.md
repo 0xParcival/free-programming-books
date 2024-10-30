@@ -51,6 +51,7 @@
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
@@ -216,10 +217,10 @@
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
-* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
-* [Go - hands on](https://github.com/go-br/estudos)
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie (CC BY-SA)
+* [Go - hands on](https://github.com/go-br/estudos) (CC BY-SA)
 * [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
-* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML) (CC BY)
 
 
 ### Haskell
@@ -397,6 +398,11 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+
+
+#### Yii
+
+* [Guia Definitivo para Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pt-br.pdf) - Yii Software (PDF)
 
 
 ### Python
